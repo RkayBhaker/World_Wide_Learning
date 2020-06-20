@@ -161,6 +161,9 @@ margin-top:-10px;
     font-size: 16px;
     text-decoration: none;
   }
+  .category_btn{
+    margin-left: -10px;
+  }
 }
 
 @media(max-width:815px){
